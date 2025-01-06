@@ -1,0 +1,66 @@
+body {
+    background-image: url(./images/background.jpg);
+}
+
+.body-div {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    max-width: 1200px;
+    border: 3px solid rgb(110, 122, 3);
+    border-radius: 20px;
+    background-color: rgb(235, 241, 172);
+    color: rgb(59, 131, 66);
+    padding: 20px;
+}
+
+ul, ol {
+    text-align: left;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+li, p {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    text-align: left;
+}
+
+button {
+    font-weight: bold;
+    border-radius: 30px;
+    width: 140px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(59, 131, 66);
+    border: none;
+}
+
+.child-container {
+    margin: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(188, 218, 20, 0.1);
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: 3px solid rgb(110, 122, 3);
+}
+
+img {
+    border: 3px solid rgb(110, 122, 3);
+    border-radius: 20px;
+}
+
+p {
+    text-decoration: none;
+}
